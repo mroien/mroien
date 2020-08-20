@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### QA Automatio
+### QA Automation
 
 ## Work with [WDIO](https://webdriver.io)
 
